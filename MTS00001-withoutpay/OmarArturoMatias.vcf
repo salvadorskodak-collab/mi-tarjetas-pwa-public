@@ -1,9 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Omar Arturo Matías Asla
-ADR;TYPE=HOME:;;Duc de lliria 3,bajo;LLIRIA;Valencia;46160;España
-TEL;TYPE=CELL:+34656860708
-EMAIL:mtspropiedades@mtspropiedades.com
+
+ADR;TYPE=HOME:;;Duc de Lliria 3, bajo;Lliria;Valencia;46160;España
+ADR;TYPE=HOME:;;Calle 9 de Julio 785;Laprida;Buenos Aires;7414;Argentina
+
+TEL;TYPE=CELL:+34 656 860 708
+TEL;TYPE=CELL:+54 9 291 437 9144
+
+EMAIL:oamatias@gmail.com
+
 URL:https://www.facebook.com/mtspropiedades/
 URL:https://www.instagram.com/mtspropiedades/
 URL:https://www.linkedin.com/in/omar-matias-asla-63722347/
